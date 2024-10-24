@@ -1,5 +1,5 @@
 ## Dataset description
-[Dataset](./dataset_x.csv) consists of 3 columns
+[Dataset] consists of 3 columns
 - id : Unique ID of each video. This ID can be used to get the original video on Youtube using the format: **https://www.youtube.com/watch?v={ID}** 
 - query : This is the query that is being asked and needs to be answered using the video
 - cleaned_chapters : List consisting of two chapters names which are required to answer the query
